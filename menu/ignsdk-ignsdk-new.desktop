@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ignsdk_new
+Exec=/usr/bin/ignsdk -p /opt/ignsdk/ignsdk-new.ign
+Icon=/opt/ignsdk/ignsdk-new.ign/icons/app.png
+Terminal=false
+Type=Application
+Categories=Utility
